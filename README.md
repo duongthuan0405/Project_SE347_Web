@@ -33,7 +33,7 @@
 
 <ul>
     <li><strong>GV Lý thuyết: </strong>ThS. Đặng Việt Dũng</li>
-    <li><strong>GV HDTH: </strong>Quan Chí Khánh An</li>
+    <li><strong>GV HDTH: </strong>ThS. Quan Chí Khánh An</li>
 </ul>
 
 ## DANH SÁCH THÀNH VIÊN
